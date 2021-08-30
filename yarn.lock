@@ -1271,6 +1271,14 @@
     "@vueuse/shared" "6.0.0"
     vue-demi "*"
 
+"@vueuse/motion@patrickdaley/motion":
+  version "1.6.0"
+  resolved "https://codeload.github.com/patrickdaley/motion/tar.gz/b2f6c8ca898e5f7ef7ec4abe9765c007ba3a00b7"
+  dependencies:
+    "@vueuse/core" "^6.0.0"
+    popmotion "^9.4.0"
+    vue-demi "*"
+
 "@vueuse/shared@6.0.0":
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/@vueuse/shared/-/shared-6.0.0.tgz#e6b8804541a1853615db3dd869d07653b244451f"
