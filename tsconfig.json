@@ -20,7 +20,7 @@
     "sourceMap": false,
     "noEmit": true,
 
-    "target": "esnext",
+    "target": "ES6",
     "module": "esnext",
     "moduleResolution": "node",
     "skipLibCheck": true,
